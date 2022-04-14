@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChristineMende
-- 👀 I’m interested in reading 
+- 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning python fundaments
 
 <!---
